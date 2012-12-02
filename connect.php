@@ -2,6 +2,7 @@
 $mysqli = new mysqli('mysql.eecs.ku.edu', 'rhenders', 'platypus', 'rhenders');
 
 /* comment */
+/* rj comment */
 
 /* check connection */
 if (mysqli_connect_errno()) {
